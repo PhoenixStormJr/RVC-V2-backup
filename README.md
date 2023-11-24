@@ -2,7 +2,7 @@
 Just a backup... nothing special
 
 
-{
+
   "nbformat": 4,
   "nbformat_minor": 0,
   "metadata": {
@@ -41,4 +41,3 @@ Just a backup... nothing special
         "id": "Vc01O8jLgcFW"
       }
     },
-}
